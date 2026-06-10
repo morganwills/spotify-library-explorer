@@ -6,6 +6,20 @@ A beautiful, private app that runs on your own computer and lets you explore you
 
 ---
 
+## 💛 Support this project
+
+I built this in my spare time and it's completely free. If it's useful to you, even a small contribution helps me keep making things like this.
+
+| | |
+|---|---|
+| **PayPal** | [paypal.com/donate/...](https://www.paypal.com/donate/?hosted_button_id=44R6QCUTEDHHC) |
+| **Revolut** | [revolut.me/morganwills](https://revolut.me/morganwills) |
+| **Wise** | [wise.com/pay/me/morganw](https://wise.com/pay/me/morganw) |
+
+No pressure — enjoy the tool either way 🙂
+
+---
+
 ## What it looks like
 
 You get a clean table of every song you've ever liked or added to a playlist, with filters for genre, release year, popularity, explicit content, your top tracks, and more. You can select songs and save them as a new Spotify playlist, or export your whole library (or just your filtered results) to a spreadsheet.
@@ -160,10 +174,12 @@ Everything runs on your own computer. Your Spotify data never leaves your machin
 
 ---
 
-## Support this project
+## 💛 Support this project
 
-This is free and always will be. If it saved you time or made you happy, you're welcome to buy me a coffee ☕
+This is free and always will be. If it saved you time or made you happy, a small contribution means a lot — pick whichever is easiest for you:
 
-**[💛 Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=44R6QCUTEDHHC)**
+- **PayPal** → [paypal.com/donate/...](https://www.paypal.com/donate/?hosted_button_id=44R6QCUTEDHHC)
+- **Revolut** → [revolut.me/morganwills](https://revolut.me/morganwills)
+- **Wise** → [wise.com/pay/me/morganw](https://wise.com/pay/me/morganw)
 
-No pressure at all — enjoy your library explorer!
+Thank you 🙏

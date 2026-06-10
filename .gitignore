@@ -1,0 +1,4 @@
+spotify_cache.json
+spotify_library.csv
+node_modules/
+.DS_Store

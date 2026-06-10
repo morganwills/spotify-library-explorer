@@ -1,6 +1,6 @@
 # 🎵 Spotify Library Explorer
 
-A beautiful, private app that runs on your own computer and lets you explore your entire Spotify library — search, filter, sort by genre, year, popularity, playlist, top tracks, and more. Export everything to CSV with one click.
+I vibe coded this so use at your own risk! A beautiful, private app that runs on your own computer and lets you explore your entire Spotify library — search, filter, sort by genre, year, popularity, playlist, top tracks, and more. Export everything to CSV with one click.
 
 **No coding experience needed. Free forever.**
 
